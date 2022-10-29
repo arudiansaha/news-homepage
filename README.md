@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
-- Live Site URL: [Click here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/arudiansaha/news-homepage)
+- Live Site URL: [Click here](https://arudiansaha.github.io/news-homepage)
 
 ## My process
 
